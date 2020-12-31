@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/h4nc3/h4nc3/blob/master/gif/cow.gif" alt="Illustration of a css waffle from my codepen (https://codepen.io/wvffle/pen/EyJxwa)" width=400px height=415px/>
+<img align="right" src="https://github.com/h4nc3/h4nc3/blob/master/gif/cow.gif" alt="https://codepen.io/wvffle/pen/EyJxwa" width=400px height=415px/>
 
 <div align="center">
   
